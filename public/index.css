@@ -1,0 +1,12 @@
+.jumbotron{
+    background-color: rgba(255, 255, 255, .1);
+
+  }
+img{
+    width: 80%;
+    height: 450px;
+}
+body{
+    background-image: url(.//img/patrick.gif);
+    
+}

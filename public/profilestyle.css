@@ -1,0 +1,40 @@
+body{
+    background-image: url(.//img/eating.gif);
+    background-size: cover;
+}
+#allergies{
+color: rgb(255, 255, 255);
+margin-left: 200px;
+font-size: 25px;
+}
+#hidden,.hidden{
+display: none;
+}
+.ingredients{
+color:green;
+text-align: center;
+margin-right: -160px;
+}
+.needswork{
+color: rgb(255, 0, 0);
+}
+.needsworksection{
+    color:white;
+    font-size: 18px;
+}
+.favorites{
+color: yellow;
+margin-left: 340px;
+}
+.favoriteIngredients{
+font-size: 18px;
+color: rgb(255, 255, 255);
+}
+.lookup{
+width:20%;
+margin-left: 420px;
+}
+.input1{
+margin-left: 320px;
+width: 30%;
+}
