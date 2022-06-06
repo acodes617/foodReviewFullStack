@@ -1,13 +1,3 @@
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+![Screenshot (51)](https://user-images.githubusercontent.com/96151200/172220192-9b529237-d373-464d-85fb-fcfd005549cb.png) 
+Using vanilla JS, HTML, and CSS I created a full-stack apllication that will allow the user to input a recipe that will show them ingredients! They can then rate said recipe to either fit in with the favorited or needs work section! 
+This can give them a chance to either use the recipe within the future or hold it off for a later date so they can edit it for an allergy-related issue, or they simply do not like an ingredient! You must install npm, node, mongoDB, and express to run this code correctly! Once completed run npm run start and use the port number given to you in the terminal! Have fun!
